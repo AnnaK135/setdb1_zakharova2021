@@ -1,0 +1,2 @@
+condition,cell,mean MSD (nm),std deviation (nm),mean MSD (thresholded) (nm),std deviation (thresholded) (nm)
+WT,WT_03_movie_bleach-corr_1_reg,249.298773256597,47.3602031854164,199.209709081852,46.4023307420089
